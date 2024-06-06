@@ -1,4 +1,4 @@
-# bouncing
+# Bouncing
 
 A new Flutter project.
 
